@@ -36,10 +36,8 @@ Map: an interactive map that visualizes the reported squirrels' locations. The m
 
 Contributors
 -----------------------
-- Yuemeng Zhang (uni: yz3684)
-- Leyi Mai (uni: lm3504)
-
-From Group 65, Tools for Analytics(Sec 2)
+- Yuemeng Zhang 
+- Leyi Mai 
 
 
 Dependencies
